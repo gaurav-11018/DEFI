@@ -1,5 +1,5 @@
 # DEFI
-Decentralized-Finance
+Decentralized-Finance.
 
 Wanted to do this for a really long time  
 
