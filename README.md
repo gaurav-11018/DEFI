@@ -5,7 +5,7 @@ Decentralized finance offers financial instruments without relying on intermedia
 
 This project illustrates three functionalities of DeFi:
 1.  Depositing ETH, and gain interest on the principal.
-2.  Borrowing ETH/DAI(stable coins).
+2.  Borrowing ETH/DAI(stable coin).
 3.  Approve the amount that can be borrowed calculating the risk factor.
 
 
