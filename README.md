@@ -3,7 +3,7 @@ Decentralized-Finance.
 
 Decentralized finance offers financial instruments without relying on intermediaries such as brokerages, exchanges, or banks by using smart contracts on a blockchain.
 
-This project illustrates three functionalities of DeFI:
+This project illustrates three functionalities of DeFi:
 1.  Depositing ETH, and gain interest on the principal.
 2.  Borrowing ETH/DAI(stable coins).
 3.  Approve the amount that can be borrowed calculating the risk factor.
