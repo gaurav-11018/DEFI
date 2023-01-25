@@ -1,5 +1,5 @@
 # DEFI
-Decentralized-Finance.
+Decentralized-Finance
 
 Decentralized finance offers financial instruments without relying on intermediaries such as brokerages, exchanges, or banks by using smart contracts on a blockchain.
 
